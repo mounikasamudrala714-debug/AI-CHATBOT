@@ -35,3 +35,19 @@ AI-chatbot
 └── frontend
     ├── index.html
     └── style.css
+
+
+User: hi
+Bot: Hello! Nice to meet you.
+
+User: what is your name
+Bot: My name is Simple Python Chatbot.
+
+User: features
+Bot: My features are chatting with users, giving replies, and running in a browser.
+
+User: bye
+Bot: Goodbye! Have a great day.
+
+
+
